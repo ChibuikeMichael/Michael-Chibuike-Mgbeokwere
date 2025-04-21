@@ -3,7 +3,7 @@
 ## About Me
 ![Profile Photo](images/profile.jpg)
 
-Hello! I'm Dr. Michael Chibuike Mgbeokwere, a data analyst passionate about turning data into actionable insights. I specialize in Excel, Power BI, Tableau, and SQL using Microsoft SQL Server, with experience in data entery, data cleaning and transformation, analysis, visualization, database management, communication and presentation. My goal is to help organizations across various sectors such as business, healthcare, education and government make data-driven decisions through clear and impactful analysis.
+Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst passionate about turning data into actionable insights. I specialize in Excel, Power BI, Tableau, and SQL using Microsoft SQL Server, with experience in data entery, data cleaning and transformation, analysis, visualization, database management, communication and presentation. My goal is to help organizations across various sectors such as business, healthcare, education and government make data-driven decisions through clear and impactful analysis.
 
 ## Skills
 - *Microsoft Excel*: Data cleaning and preparation, Descriptive statistics, Formulas and functions, Pivot tables and pivot charts, Data visualization, Dashboard creation, Power query (ETL), Power Pivot and data modeling, and VBA for automation

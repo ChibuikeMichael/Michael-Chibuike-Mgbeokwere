@@ -34,38 +34,38 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 
 ### Cisco Networking Academy
 
-- *Data Analytics Essentials* - *Issued by Cisco Networking Academy* [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
-- *Introduction to Data Science* - *Isuued by Cisco Networking Academy* [View Certificate](certificates/Cisco-introduction-to-data-science-certificate.pdf)
+- *Data Analytics Essentials* - [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
+- *Introduction to Data Science* - [View Certificate](certificates/Cisco-introduction-to-data-science-certificate.pdf)
 
 ### Foresight BI
  
-- *Data Visualization Essentials* - *Issued by Foresight BI* [View Certificate](certificates/Foresight-BI-Data-visualization-essentials.pdf)
-- *Microsoft Excel Basics* - *Issued by Foresight BI* [View Certificate](certificates/Foresight-BI-Excel-certificate.pdf)
+- *Data Visualization Essentials* - [View Certificate](certificates/Foresight-BI-Data-visualization-essentials.pdf)
+- *Microsoft Excel Basics* - [View Certificate](certificates/Foresight-BI-Excel-certificate.pdf)
 
 ### Great Learning 
 
-- *Data Visualization with Power BI* - *Issued by Great Learning* [View Certificate](certificates/GL-Data-visualization-Certificate.pdf)
-- *Excel for Beginners* - *Issued by Great Learning* [View Certificate](certificates/GL-Excel-for-beginners-certificate.pdf)
-- *Pivot Table in Excel* - *Issued by Great Learning* [View Certificate](certificates/Great-learning-certificate-Pivot-table.pdf)
-- *Excel Tips and Tricks* - *Issued by Great Learning* [View Certificate](certificates/Great-learning-certificate-on-Excel-Tips.pdf)
+- *Data Visualization with Power BI* - [View Certificate](certificates/GL-Data-visualization-Certificate.pdf)
+- *Excel for Beginners* - [View Certificate](certificates/GL-Excel-for-beginners-certificate.pdf)
+- *Pivot Table in Excel* - [View Certificate](certificates/Great-learning-certificate-Pivot-table.pdf)
+- *Excel Tips and Tricks* - [View Certificate](certificates/Great-learning-certificate-on-Excel-Tips.pdf)
 
-### HP Life
+### HP LIFE (HP Foundation)
 
-- *Data Science and Analytics* - *Issued by HP LIFE (HP Foundation)* [View Certificate](certificates/Hp-life-certificate-on-data-science-and-analytics.pdf)
+- *Data Science and Analytics* - [View Certificate](certificates/Hp-life-certificate-on-data-science-and-analytics.pdf)
 
 ### Skillup by Simplilearn
 
-- *Power BI Data Modelling Basics* - *Issued by Simplilearn Skillup (Microsoft-endorsed)* [View Certificate](certificates/Simplelearn-Certificate-POWERBI-Data-Modelling-Basics.pdf)
-- *Power BI for Beginners* - *Issued by Simplilearn skillup* [View Certificate](certificates/Simplelearn-Certificate-POWERBI-for-Beginners.pdf)
-- *SQL for Data Analysis* - *Issued by Simplilearn Skillup* [View Certificate](certificates/Simplelearn-Certificate-SQL-for-Data-Analysis.pdf)
-- *Introduction to Power Query in Excel* - *Issued by Simplilearn Skillup* [View Certificate](certificates/Simplelearn-certificate-on-power-query.pdf)
+- *Power BI Data Modelling Basics* - *(Microsoft-endorsed)* [View Certificate](certificates/Simplelearn-Certificate-POWERBI-Data-Modelling-Basics.pdf)
+- *Power BI for Beginners* - [View Certificate](certificates/Simplelearn-Certificate-POWERBI-for-Beginners.pdf)
+- *SQL for Data Analysis* - [View Certificate](certificates/Simplelearn-Certificate-SQL-for-Data-Analysis.pdf)
+- *Introduction to Power Query in Excel* - [View Certificate](certificates/Simplelearn-certificate-on-power-query.pdf)
 
 ### Udemy
 
-- *Business Analyst Career Path: 22 Days BI Analytics Bootcamp* - *Issued by Udemy* [View Certificate](certificates/Udemy-Business-Analyst-Career-Path-Using-Excel-and-PowerBI.pdf)
-- *Data Analysis | SQL, Tableau, Power BI, Excel, | Real Projects* - *Issued by udemy* [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
-- *Statistics for Data Science and Business Analysis* - *Issued by Udemy (instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
-- *SQL with SQL Server Management Studio (SSMS)* - *Issued by Udemy* [View Certificate](certificate/Udemy-SQL-with-SQL-Server-Management-Studio-(SSMS).pdf)
+- *Business Analyst Career Path: 22 Days BI Analytics Bootcamp* - [View Certificate](certificates/Udemy-Business-Analyst-Career-Path-Using-Excel-and-PowerBI.pdf)
+- *Data Analysis | SQL, Tableau, Power BI, Excel, | Real Projects* - [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
+- *Statistics for Data Science and Business Analysis* - *(instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
+- *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificate/Udemy-SQL-with-SQL-Server-Management-Studio-(SSMS).pdf)
 
 ## Contact
 - *Email*: mgbeokwerec@gmail.com

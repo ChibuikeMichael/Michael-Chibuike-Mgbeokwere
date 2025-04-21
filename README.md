@@ -12,23 +12,12 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 - *SQL*: Data retrieval, Sorting and limiting results, Joins and reltionships, Aggregations and grouping, Subqueries and nested queries,  window functions, Data cleaning and preparation, Table management and schema understanding, Common table expressions, Complex queries, and database optimization
 
 ## Projects
-### 1. Sales Performance Dashboard (Power BI)
-- *Description*: Built an interactive dashboard to analyze sales trends and forecast revenue. Used DAX to create custom metrics and integrated data from CSV and SQL sources.
-- *Tools*: Power BI, SQL
-- *Files*: [Link to folder](#) | [View Dashboard](#)
-- *Screenshot*: ![Sales Dashboard](images/sales-dashboard.jpg)
 
-### 2. Customer Segmentation Analysis (Tableau)
-- *Description*: Created visualizations to segment customers based on purchase behavior, enabling targeted marketing. Extracted and cleaned data using SQL.
-- *Tools*: Tableau, SQL
-- *Files*: [Link to folder](#) | [View Visualization](#)
-- *Screenshot*: ![Customer Segmentation](images/customer-segmentation.jpg)
-
-### 3. Financial Model Automation (Excel)
-- *Description*: Developed a budgeting model with pivot tables and VBA macros to automate financial analysis for a small business.
-- *Tools*: Excel, VBA
-- *Files*: [Link to folder](#) | [Download Model](#)
-- *Screenshot*: ![Financial Model](images/financial-model.jpg)
+### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
+- *Description*: Built an interactive dashboard to analyze healthcare facility data across African Nations, to unravel the challenges of healthcare acceessibility. The aim is to identify disparities in access to healthcare between urban and rural areas and evaluate the efficiency of healthcare funding. Insight generated was used to propose data-driven recommendations that government and stakeholders can implement to enhance healthcare service delivery across Africa.
+- *Tools*: Power BI
+- *Files*: [Download .pbix File](projects/Healthcare-accessibility-in-Africa-file.pbix)
+- *Screenshot*: ![Healthcare Accessibility Dashboard](images/healthcare-accessibility-dashboard.jpg)
 
 ## Certificates
 

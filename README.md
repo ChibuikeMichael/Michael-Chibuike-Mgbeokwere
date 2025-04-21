@@ -30,6 +30,25 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 - *Files*: [Link to folder](#) | [Download Model](#)
 - *Screenshot*: ![Financial Model](images/financial-model.jpg)
 
+## Certificates
+
+- *Data Analytics Essentials* - *Issued by Cisco Networking Academy* [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
+- *Introduction to Data Science* - *Isuued by Cisco Networking Academy* [View Certificate](certificates/Cisco-introduction-to-data-science-certificate.pdf)
+- *Data Visualization Essentials* - *Issued by Foresight BI* [View Certificate](certificates/Foresight-BI-Data-visualization-essentials.pdf)
+- *Microsoft Excel Basics* - *Issued by Foresight BI* [View Certificate](certificates/Foresight-BI-Excel-certificate.pdf)
+- *Data Visualization with Power BI* - *Issued by Great Learning* [View Certificate](certificates/GL-Data-visualization-Certificate.pdf)
+- *Excel for Beginners* - *Issued by Great Learning* [View Certificate](certificates/GL-Excel-for-beginners-certificate.pdf)
+- *Pivot Table in Excel* - *Issued by Great Learning* [View Certificate](certificates/Great-learning-certificate-Pivot-table.pdf)
+- *Excel Tips and Tricks* - *Issued by Great Learning* [View Certificate](certificates/Great-learning-certificate-on-Excel-Tips.pdf)
+- *Data Science and Analytics* - *Issued by HP LIFE (HP Foundation)* [View Certificate](certificates/Hp-life-certificate-on-data-science-and-analytics.pdf)
+- *Power BI Data Modelling Basics* - *Issued by Simplilearn Skillup (Microsoft-endorsed)* [View Certificate](certificates/Simplelearn-Certificate-POWERBI-Data-Modelling-Basics.pdf)
+- *Power BI for Beginners* - *Issued by Simplilearn skillup* [View Certificate](certificates/Simplelearn-Certificate-POWERBI-for-Beginners.pdf)
+- *SQL for Data Analysis* - *Issued by Simplilearn Skillup* [View Certificate](certificates/Simplelearn-Certificate-SQL-for-Data-Analysis.pdf)
+- *Introduction to Power Query in Excel* - *Issued by Simplilearn Skillup* [View Certificate](certificates/Simplelearn-certificate-on-power-query.pdf)
+- *Business Analyst Career Path: 22 Days BI Analytics Bootcamp* - *Issued by Udemy* [View Certificate](certificates/Udemy-Business-Analyst-Career-Path-Using-Excel-and-PowerBI.pdf)
+- *Data Analysis | SQL, Tableau, Power BI, Excel, | Real Projects* - *Issued by udemy* [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
+- *Statistics for Data Science and Business Analysis* - *Issued by Udemy (instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
+
 ## Contact
 - *Email*: mgbeokwerec@gmail.com
 - *LinkedIn*: https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218

@@ -52,7 +52,7 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 ### Udemy
 
 - *Business Analyst Career Path: 22 Days BI Analytics Bootcamp* - [View Certificate](certificates/Udemy-Business-Analyst-Career-Path-Using-Excel-and-PowerBI.pdf)
-- *Data Analysis | SQL, Tableau, Power BI, Excel, | Real Projects* - [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
+- *Data Analysis with SQL, Tableau, Power BI and Excel; Real Projects* - [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
 - *Statistics for Data Science and Business Analysis* - *(instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
 - *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificates/Udemy-SQL-with-SQL-Server-Managment-Studio-(SSMS).pdf)
 

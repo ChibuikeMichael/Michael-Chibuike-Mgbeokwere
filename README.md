@@ -44,17 +44,17 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 
 ### Skillup by Simplilearn
 
-- *Power BI Data Modelling Basics* - *(Microsoft-endorsed)* [View Certificate](certificates/Simplelearn-Certificate-POWERBI-Data-Modelling-Basics.pdf)
-- *Power BI for Beginners* - [View Certificate](certificates/Simplelearn-Certificate-POWERBI-for-Beginners.pdf)
+- *Power BI Data Modelling Basics* - *(Microsoft-endorsed)* [View Certificate](certificates/Simplilearn-Certificate-PowerBI-Data-Modelling-Basics.pdf)
+- *Power BI for Beginners* - [View Certificate](certificates/Simplilearn-Certificate-PowerBI-for-Beginners.pdf)
 - *SQL for Data Analysis* - [View Certificate](certificates/Simplilearn-Certificate-SQL-for-Data-Analysis.pdf)
-- *Introduction to Power Query in Excel* - [View Certificate](certificates/Simplelearn-certificate-on-power-query.pdf)
+- *Introduction to Power Query in Excel* - [View Certificate](certificates/Simplilearn-certificate-on-power-query.pdf)
 
 ### Udemy
 
 - *Business Analyst Career Path: 22 Days BI Analytics Bootcamp* - [View Certificate](certificates/Udemy-Business-Analyst-Career-Path-Using-Excel-and-PowerBI.pdf)
 - *Data Analysis | SQL, Tableau, Power BI, Excel, | Real Projects* - [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
 - *Statistics for Data Science and Business Analysis* - *(instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
-- *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificate/Udemy-SQL-with-SQL-Server-Management-Studio-(SSMS).pdf)
+- *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificates/Udemy-SQL-with-SQL-Server-Managment-Studio-(SSMS).pdf)
 
 ## Contact
 - *Email*: mgbeokwerec@gmail.com

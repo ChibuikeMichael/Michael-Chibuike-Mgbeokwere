@@ -48,6 +48,7 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 - *Power BI for Beginners* - [View Certificate](certificates/Simplilearn-Certificate-PowerBI-for-Beginners.pdf)
 - *SQL for Data Analysis* - [View Certificate](certificates/Simplilearn-Certificate-SQL-for-Data-Analysis.pdf)
 - *Introduction to Power Query in Excel* - [View Certificate](certificates/Simplilearn-certificate-on-power-query.pdf)
+- *Business Analytics with Excel* - [View Certificate](certificates/Simplilearn-Business-Analytics-with-Excel.pdf)
 
 ### Udemy
 

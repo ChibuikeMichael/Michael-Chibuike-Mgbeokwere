@@ -3,21 +3,26 @@
 ## About Me
 ![Profile Photo](images/profile.jpg)
 
-Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst passionate about turning data into actionable insights. I specialize in Excel, Power BI, Tableau, and SQL using Microsoft SQL Server, with experience in data entery, data cleaning and transformation, analysis, visualization, database management, communication and presentation. My goal is to help organizations across various sectors such as business, healthcare, education and government make data-driven decisions through clear and impactful analysis.
+I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a passion for transforming data into actionable insights. Leveraging my healthcare expertise and proficiency in Excel, Power BI, Tableau and SQL, i deliver clear, comprehensive and impactful analysis to drive decision making in organizations across various sectors such as healthcare, business, education and beyond.
 
 ## Skills
-- *Microsoft Excel*: Data cleaning and preparation, Descriptive statistics, Formulas and functions, Pivot tables and pivot charts, Data visualization, Dashboard creation, Power query (ETL), Power Pivot and data modeling, and VBA for automation
-- *Power BI*: Data connection and import, Data cleaning and transformation with Power Query, Data modeling, DAX, Time intelligence, Data visualization, Interactive dashboards and reports, and Row-Level security
-- *Tableau*: Data Connection and import, Data preparation, Data modeling, Calculated fields and table calculations, Time series and Date functions, Data visualization, Interactive dashboards, and Storytelling with data
-- *SQL*: Data retrieval, Sorting and limiting results, Joins and reltionships, Aggregations and grouping, Subqueries and nested queries,  window functions, Data cleaning and preparation, Table management and schema understanding, Common table expressions, Complex queries, and database optimization
-
+- *Microsoft Excel*: Data cleaning, Pivot tables, Data visualization, Dashboards, Power Query, Power Pivot, VBA for automation
+  
+- *Power BI*: Data modeling, Power Query, DAX, Data visualization, Interactive dashboards, Row-Level security
+  
+- *Tableau*: Data visualization, Calculated fields, Interactive dashboards, Storytelling 
+  
+- *Microsoft SQL Server*: Complex queries, Joins, Window functions, database optimization
+  
+- *Statistics and Mathematics*: Descriptive Statistics, Probability, Inferential Statistics, Correlation and Regression, Data literacy
+  
 ## Projects
 
 ### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
-- *Description*: Built an interactive dashboard to analyze healthcare facility data across African Nations, to unravel the challenges of healthcare acceessibility. The aim is to identify disparities in access to healthcare between urban and rural areas and evaluate the efficiency of healthcare funding. Insight generated was used to propose data-driven recommendations that government and stakeholders can implement to enhance healthcare service delivery across Africa.
+- *Description*: Developed interactive dashboards to analyze healthcare facility data across Africa, identifying urban-rural disparities and proposing data-driven recommendations to improve service delivery for governments and stakeholders.
 - *Tools*: Power BI
-- *Files*: [Download .pdf File](projects/Healthcare-Accessibility-in-Africa-File.pdf)
-- *Screenshot*: ![Healthcare Accessibility Dashboard](images/Healthcare-Accessibility-Dashboard.png)
+- *Files*: [View Healthcare Accessibility Dashboard.pdf File](projects/Healthcare-Accessibility-in-Africa-File.pdf)
+- *Dashboard*: ![Healthcare Accessibility Dashboard](images/Healthcare-Accessibility-Dashboard.png)
 
 ## Certificates
 
@@ -58,11 +63,8 @@ Hello! I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst pa
 - *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificates/Udemy-SQL-with-SQL-Server-Managment-Studio-(SSMS).pdf)
 
 ## Contact
-- *Email*: mgbeokwerec@gmail.com
-- *LinkedIn*: https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218
-- *GitHub*: https://github.com/ChibuikeMichael
-
-Feel free to reach out for collaboration or job opportunities!
-
----
-Last updated: April 2025
+- Email: [mgbeokwerec@gmail.com](mailto:mgbeokwerec@gmail.com)
+- LinkedIn: [Visit Profile](https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218)
+- GitHub: [View Repository](https://github.com/ChibuikeMichael)
+- Portfolio: [Dr. Mike Analytics](https://chibuikemichael.github.io/Dr_Mike_Analytics_Portfolio/)
+Connect with me for data analytics collaborations or opportunities!

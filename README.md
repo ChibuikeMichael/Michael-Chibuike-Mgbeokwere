@@ -17,7 +17,6 @@ I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a pa
 - *Statistics and Mathematics*: Descriptive Statistics, Probability, Inferential Statistics, Correlation and Regression, Data literacy
   
 ## Projects
-
 ### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
 - *Description*: Developed interactive dashboards to analyze healthcare facility data across Africa, identifying urban-rural disparities and proposing data-driven recommendations to improve service delivery for governments and stakeholders.
 - *Tools*: Microsoft Power BI
@@ -35,7 +34,6 @@ I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a pa
 - *Project File:* [View Project Report (pdf)](projects/Water_Access_and_Sanitation.pdf)
 
 ## Certificates
-
 ### Cisco Networking Academy
 
 - *Data Analytics Essentials* - [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
@@ -72,10 +70,10 @@ I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a pa
 - *Statistics for Data Science and Business Analysis* - *(instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
 - *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificates/Udemy-SQL-with-SQL-Server-Managment-Studio-(SSMS).pdf)
 
-## Contact
+## Contact and Resume
 - Email: [mgbeokwerec@gmail.com](mailto:mgbeokwerec@gmail.com)
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218)
 - GitHub: [View Repository](https://github.com/ChibuikeMichael)
 - Portfolio: [Dr. Mike Analytics](https://chibuikemichael.github.io/Dr_Mike_Analytics_Portfolio/)
-  
+- Resume: [View Resume]
 Connect with me for data analytics collaborations or opportunities!

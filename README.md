@@ -20,9 +20,19 @@ I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a pa
 
 ### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
 - *Description*: Developed interactive dashboards to analyze healthcare facility data across Africa, identifying urban-rural disparities and proposing data-driven recommendations to improve service delivery for governments and stakeholders.
-- *Tools*: Power BI
-- *Files*: [View Healthcare Accessibility Dashboard.pdf File](projects/Healthcare-Accessibility-in-Africa-File.pdf)
+- *Tools*: Microsoft Power BI
+- *Files*: [View Healthcare Accessibility Dashboard.pdf](projects/Healthcare-Accessibility-in-Africa-File.pdf)
 - *Dashboard*: ![Healthcare Accessibility Dashboard](images/Healthcare-Accessibility-Dashboard.png)
+
+### 2. Water Access and Sanitation in Africa: A Case Study (SQL - SSMS)
+ - *Objective*: Analyzed water access and sanitation data across African communities using SQL in SQL Server Management Studio (SSMS) to identify patterns and propose data-driven recommendations for improving water infrastructure and reducing waterborne diseases.
+- *Tools Used*: SQL (SSMS), Excel
+- *Analysis Performed*:
+  - Calculated average water availability per country.
+  - Identified communities with non-functional water points and high waterborne disease rates (>20% incidence).
+  - Analyzed maintenance costs, distances to water sources, and support from government/NGOs.
+- *Recommendations*: Proposed infrastructure rehabilitation, cost audits, clean water initiatives, Health interventions and expanded support for underserved communities.
+- *Project File:* [View Project Report (pdf)](projects/Water_Access_and_Sanitation.pdf)
 
 ## Certificates
 

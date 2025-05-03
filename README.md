@@ -20,6 +20,12 @@ I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a pa
 ### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
 - *Description*: Developed interactive dashboards to analyze healthcare facility data across Africa, identifying urban-rural disparities and proposing data-driven recommendations to improve service delivery for governments and stakeholders.
 - *Tools*: Microsoft Power BI
+- *Analysis Performed*:
+  - Urban-Rural healthcare facility distribution.
+  - Funding disparities between urban and rural healthcare facilities.
+  - Relationship between emergency response time and funding.
+  - Efficiency of healthcare services.
+- *Recommendations*: Rural healthcare access and infrastructure optimization, need-based funding distribution model, expand emergency response system and healthcare workforce and strnghten stakeholders collaboration.
 - *Files*: [View Healthcare Accessibility Dashboard.pdf](projects/Healthcare-Accessibility-in-Africa-File.pdf)
 - *Dashboard*: ![Healthcare Accessibility Dashboard](images/Healthcare-Accessibility-Dashboard.png)
 
@@ -75,5 +81,6 @@ I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a pa
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218)
 - GitHub: [View Repository](https://github.com/ChibuikeMichael)
 - Portfolio: [Dr. Mike Analytics](https://chibuikemichael.github.io/Dr_Mike_Analytics_Portfolio/)
-- Resume: [View Resume]
+- Resume: [View Resume](Credentials/Resume.pdf)
+  
 Connect with me for data analytics collaborations or opportunities!

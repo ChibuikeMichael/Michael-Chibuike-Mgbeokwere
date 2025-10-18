@@ -1,21 +1,31 @@
-# ![Profile Photo](images/Repository-logo.jpg)
-
-## About Me
 ![Profile Photo](images/profile.jpg)
 
-I'm Dr. Michael Chibuike Mgbeokwere, a dental surgeon and data analyst with a passion for transforming data into actionable insights. Leveraging my healthcare expertise and proficiency in Excel, Power BI, Tableau and SQL, i deliver clear, comprehensive and impactful analysis to drive decision making in organizations across various sectors such as healthcare, business, education and beyond.
+I am a highly motivated and results-oriented data analyst with strong problem-solving skills, proficient in leveraging analytical and visualization tools to extract insights from complex datasets and drive data-informed decisions.
 
-## Skills
-- *Microsoft Excel*: Data cleaning, Pivot tables, Data visualization, Dashboards, Power Query, Power Pivot, VBA for automation
+Having worked in the healthcare, academic, and business sectors, I have gained extensive hands-on experience in data analysis, visualization, and reporting, with excellent communication and presentation skills.
+
+Through my enthusiasm for continuous learning, I have earned 20+ completion certificates in statistics and data analysis from reputable platforms, including Cisco Networking Academy, Udemy, Axia Africa, Great Learning, SkillUp by Simplilearn, Foresight BI, and HP LIFE (HP Foundation).
+I am known for being detail-oriented, research-minded, fast, attentive, and highly organized.
+
+## Tachnical Skills
+- *Microsoft Excel*: Data cleaning, Pivot tables, Data visualization, Dashboards, Power Query, Power Pivot
   
-- *Power BI*: Data modeling, Power Query, DAX, Data visualization, Interactive dashboards, Row-Level security
+- *Power BI*: Data cleaning and transformation, Data visualization, Descriptive and diagnostic analysis, Business intelligence reporting, KPI and performance tracking, Data storytelling, Row-Level security
   
-- *Tableau*: Data visualization, Calculated fields, Interactive dashboards, Storytelling 
+- *Tableau*: Data visualization, Data exploration and analysis, Business intelligence reporting, Data storytelling and presentation
   
-- *Microsoft SQL Server*: Complex queries, Joins, Window functions, database optimization
+- *SQL Database Management*: Managing and querying databases, Data exploration and manipulation, Database optimization
   
 - *Statistics and Mathematics*: Descriptive Statistics, Probability, Inferential Statistics, Correlation and Regression, Data literacy
-  
+
+## Soft Skills
+- *Analytical Thinking*: I can break down complex problems, identify patterns, interprete data and make logical decisions for business optimization.
+
+- *Communication*: I have the ability to convey information clearly, both verbally and in writing, to colleagues, clients, or stakeholders.
+
+- *Presentation*: Experienced in presenting insights and information visually and verbally to an audience. Effectively using data, slides, dashboards or visuals to inform decision-makers.
+
+- *Problem Solving*: Skilled in harnessing technical tools, critical thinking and creativity to identify issues, analyze ttheir causes, and develop effective, logical, and practical solutions.
 ## Projects
 ### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
 - *Description*: Developed interactive dashboards to analyze healthcare facility data across Africa, identifying urban-rural disparities and proposing data-driven recommendations to improve service delivery for governments and stakeholders.

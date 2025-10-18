@@ -37,10 +37,10 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
   - Relationship between emergency response time and funding.
   - Efficiency of healthcare services.
 - *Recommendations*: Rural healthcare access and infrastructure optimization, need-based funding distribution model, expand emergency response system and healthcare workforce and strnghten stakeholders collaboration.
-- *Files*: [View Healthcare Accessibility Dashboard.pdf](projects/Healthcare-Accessibility-in-Africa-File.pdf)
-- *Dashboard*: ![Healthcare Accessibility Dashboard](images/Healthcare-Accessibility-Dashboard.png)
+- *Dashboard*: [View Healthcare Accessibility Dashboard.pdf](projects/Healthcare-Accessibility-in-Africa-File.pdf)
 
 ### 2. Water Access and Sanitation in Africa: A Case Study (SQL - SSMS)
+![Water Access and Sanitation in Africa Photo](images/Water_in_Africa.png)
  - *Objective*: Analyzed water access and sanitation data across African communities using SQL in SQL Server Management Studio (SSMS) to identify patterns and propose data-driven recommendations for improving water infrastructure and reducing waterborne diseases.
 - *Tools Used*: SQL (SSMS), Excel
 - *Analysis Performed*:
@@ -91,7 +91,6 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 - Email: [mgbeokwerec@gmail.com](mailto:mgbeokwerec@gmail.com)
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218)
 - GitHub: [View Repository](https://github.com/ChibuikeMichael)
-- Portfolio: [Dr. Mike Analytics](https://chibuikemichael.github.io/Dr_Mike_Analytics_Portfolio/)
 - Resume: [View Resume](Credentials/Resume.pdf)
   
 Connect with me for data analytics collaborations or opportunities!

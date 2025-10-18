@@ -28,6 +28,7 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 - *Problem Solving*: Skilled in harnessing technical tools, critical thinking and creativity to identify issues, analyze ttheir causes, and develop effective, logical, and practical solutions.
 ## Projects
 ### 1. Analysis of Healthcare Accessibility in Africa (Power BI)
+![Healthcare Africa Photo](images/Healthcare Africa.jpg)
 - *Description*: Developed interactive dashboards to analyze healthcare facility data across Africa, identifying urban-rural disparities and proposing data-driven recommendations to improve service delivery for governments and stakeholders.
 - *Tools*: Microsoft Power BI
 - *Analysis Performed*:

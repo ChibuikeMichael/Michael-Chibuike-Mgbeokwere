@@ -50,6 +50,16 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 - *Recommendations*: Proposed infrastructure rehabilitation, cost audits, clean water initiatives, Health interventions and expanded support for underserved communities.
 - *Project File:* [View Project Report (pdf)](projects/Water_Access_and_Sanitation.pdf)
 
+### 3. Online Food Service Analysis (Excel, Tableau)
+  - *Objective*: Analysis and visualization of customer feedback data for an online food service company. Generating insights into customer satisfaction levels, demographic influences on feedback and service usage patterns across different regions and customer segments.
+  - *Tools Used*: Excel and Tableau
+- *Analysis Performed*:
+  - Identified regions with high customer satisfaction and areas needing improvement.
+  - Established the influence of income levels on customer satisfaction and feedback trends.
+  - Identified groups most likely to use online services and analyzed their satisfaction levels
+  - Analyzed possible relationship of family size with service usage patterns and satisfaction levels.
+- *Dashboard*: [View Online Food Service Dashboard](https://public.tableau.com/views/OnlineFoodServiceanalysis/OnlineFoodService?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    
 ## Certificates
 ### Cisco Networking Academy
 

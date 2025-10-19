@@ -7,7 +7,7 @@ Having worked in the healthcare, academic, and business sectors, I have gained e
 Through my enthusiasm for continuous learning, I have earned 20+ completion certificates in statistics and data analysis from reputable platforms, including Cisco Networking Academy, Udemy, Axia Africa, Great Learning, SkillUp by Simplilearn, Foresight BI, and HP LIFE (HP Foundation).
 I am known for being detail-oriented, research-minded, fast, attentive, and highly organized.
 
-## Tachnical Skills
+## Technical Skills
 - *Microsoft Excel*: Data cleaning, Pivot tables, Data visualization, Dashboards, Power Query, Power Pivot
   
 - *Power BI*: Data cleaning and transformation, Data visualization, Descriptive and diagnostic analysis, Business intelligence reporting, KPI and performance tracking, Data storytelling, Row-Level security

@@ -1,3 +1,4 @@
+## Data Analyst and Visualization Expert
 ![Profile Photo](images/profile.jpg)
 
 I am a highly motivated and results-oriented data analyst with strong problem-solving skills, proficient in leveraging analytical and visualization tools to extract insights from complex datasets and drive data-informed decisions.
@@ -107,6 +108,5 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 - Email: [mgbeokwerec@gmail.com](mailto:mgbeokwerec@gmail.com)
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218)
 - GitHub: [View Repository](https://github.com/ChibuikeMichael)
-- Resume: [View Resume](Credentials/Resume.pdf)
   
 Connect with me for data analytics collaborations or opportunities!

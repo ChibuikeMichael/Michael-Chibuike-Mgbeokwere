@@ -62,6 +62,10 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 - *Dashboard*: [View Online Food Service Dashboard](https://public.tableau.com/views/OnlineFoodServiceanalysis/OnlineFoodService?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
     
 ## Certificates
+### Axia Africa (Accredited by the American Council of Training and Development)
+
+- *Data Analysis* - [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
+
 ### Cisco Networking Academy
 
 - *Data Analytics Essentials* - [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
@@ -97,7 +101,8 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 - *Data Analysis with SQL, Tableau, Power BI and Excel; Real Projects* - [View Certificate](certificates/Udemy-Certificate-on-Data-Analysis-with-Tableau-PowerBI-Excel-and-SQL.pdf)
 - *Statistics for Data Science and Business Analysis* - *(instructors: 365 Careers)* [View Certificate](certificates/Udemy-statistics-for-data-science-certificate.pdf)
 - *SQL with SQL Server Management Studio (SSMS)* - [View Certificate](certificates/Udemy-SQL-with-SQL-Server-Managment-Studio-(SSMS).pdf)
-
+- *Data Visualization with Tableau* - [View Certificate](certificates/Tableau-Data-Visualization-Udemy.jpg)
+  
 ## Contact and Resume
 - Email: [mgbeokwerec@gmail.com](mailto:mgbeokwerec@gmail.com)
 - LinkedIn: [Visit Profile](https://www.linkedin.com/in/dr-chibuike-mgbeokwere-561584218)

@@ -64,7 +64,7 @@ I am known for being detail-oriented, research-minded, fast, attentive, and high
 ## Certificates
 ### Axia Africa (Accredited by the American Council of Training and Development)
 
-- *Data Analysis* - [View Certificate](certificates/Cisco-Data-Analytics-Essentials-Certificate.pdf)
+- *Data Analysis* - [View Certificate](certificates/Data-Analysis-Axia-Africa.jpg)
 
 ### Cisco Networking Academy
 
